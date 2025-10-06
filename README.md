@@ -4,6 +4,6 @@ Air Mouse is an innovative wearable mouse designed to be used with the wearable 
 
 ## BOM
 - An esp32 C3 xiao
-- A coin cell holder
+- A coin cell holder (already buying for magnetic beep)
 - A magnetometer ([Link](https://a.co/d/dV07XFR))
 - An accelerometer
